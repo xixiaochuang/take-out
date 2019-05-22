@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+//后台
+Route::prefix('admins')->group(function (){
+    //后台首页
+    Route::get('/',"admin\\AdminController@admin");
+});
