@@ -14,7 +14,7 @@
     @show
 <table width="100%" border="0" cellspacing="0" class="nav">
     <tr>
-        <td width="25" class="foot"><img src="/index/img/1.png" width="30%" height="auto"/><span><p>外卖</p></span></td>
+        <td width="25" class="foot"><a href="{{url('classify')}}"><img src="/index/img/1.png" width="30%" height="auto"/><span><p>外卖</p></span></a></td>
         <td width="25" class="foot"><a href="{{url('classify')}}"><img src="/index/img/22.png" width="30%" height="auto"/><p>分类</p></a></td>
         <td width="25" class="foot"><a href="{{url('shop')}}"><img src="/index/img/33.png" width="30%" height="auto"/><p>购物车</p></a></td>
         <td width="25" class="foot"><a href="{{url('login')}}"><img src="/index/img/44.png" width="30%" height="auto"/><p>我的</p></a></td>
