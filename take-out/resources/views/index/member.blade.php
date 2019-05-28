@@ -71,16 +71,3 @@
         <div class="button1"><a href="login.blade.php"><input type="submit" value="退出当前账号" class="text2" /></a></div>
 
     @endsection('sidebar')
-   	<!--/*底下导航*/-->
-    {{--<table width="100%" border="0" cellspacing="0" class="nav">--}}
-    	{{--<tr>--}}
-        	{{--<td width="25" class="foot"><a href="{{url('/')}}"><img src="img/11.png" width="40%" height="auto"/><p>外卖</p></a></td>--}}
-            {{--<td width="25" class="foot"><a href="{{url('classify')}}"><img src="img/22.png" width="40%" height="auto"/><p>分类</p></a></td>--}}
-            {{--<td width="25" class="foot"><a href="{{url('shop')}}"><img src="img/33.png" width="40%" height="auto"/><p>购物车</p></a></td>--}}
-            {{--<td width="25" class="foot"><a href="{{url('member')}}"><img src="img/4.png" width="40%" height="auto"/><p><span>我的</span></p></a></td>--}}
-        {{--</tr>--}}
-        {{----}}
-    {{--</table>--}}
-    {{--<div class="kb"></div> --}}
-{{--</body>--}}
-{{--</html>--}}
